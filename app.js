@@ -1,4 +1,8 @@
-
+/**
+ * @description Código JavaScript gerencia uma lista de amigos e realiza um sorteio de nomes aleatórios}
+ * @author Aline Reis
+ * @date 02/02/2025
+ */
 
 let amigos = []; //  variável do tipo array, que armazenará os nomes dos amigos inseridos.
 
