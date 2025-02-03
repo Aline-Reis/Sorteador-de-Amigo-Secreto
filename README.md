@@ -1,4 +1,4 @@
-# <h1>![Uploading image.png…]() Sorteador de Amigo Secreto </h1>
+<h1>Sorteador de Amigo Secreto </h1>
 
 Este projeto é uma aplicação simples para organizar um Amigo Secreto. Com esta ferramenta, você pode adicionar os nomes dos seus amigos e realizar um sorteio para descobrir quem será o Amigo Secreto de cada um.
 
